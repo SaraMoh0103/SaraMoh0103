@@ -1,17 +1,28 @@
 
-<div align="center">
+<!-- ================= HEADER ================= -->
 
-# Hi, I'm Sara! 👋
+<table>
+<tr>
+<td width="200" align="center">
+<img src="images/profile.jpg" width="180" alt="Sara Mohammed Zaghloul"/>
+</td>
+<td>
+<h1>Sara Mohammed</h1>
+<h3> Data Engineer | Computer Science graduate </h3>
 
-### Data Engineer | Big Data Enthusiast
+Computer Science Graduate passionate about building data pipelines, distributed processing systems, and scalable data architectures.
 
-Building data pipelines, exploring big data technologies, and turning raw data into meaningful insights.
+📍 Cairo, Egypt
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-##  About Me
+<!-- ================= ABOUT ME ================= -->
+
+## 👩‍💻 About Me
 
 I’m a Computer Science graduate from Cairo University, passionate about turning raw, messy data into reliable systems people can actually use. I apply what I learn by building hands-on projects, from designing data pipelines to turning their output into insights.
 
@@ -19,70 +30,113 @@ What I’m good at:
 Designing data pipelines and dimensional models, handling batch and real-time processing, and building data quality checks that turn raw data into trusted, analysis-ready datasets.
 
 I enjoy solving hard technical problems and working in teams, and I’m always eager to learn and grow in data and software engineering.
----
-
-## 🛠️ Languages & Tools
-
-**Programming Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Big Data & Data Engineering**
-
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
-![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-
-**Cloud & Data Platforms**
-
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoftfabric&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
+
+<!-- ================= SKILLS ================= -->
+
+## 🌱 Languages & Tools
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark" />
+
+### Data Engineering & Big Data
+
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+<img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
+<img src="https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Fabric-742774?style=for-the-badge&logo=microsoftfabric&logoColor=white" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,mysql&theme=dark" />
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white" />
+
+</div>
+
+---
+
+<!-- ================= PROJECTS ================= -->
 
 ## 🚀 Featured Projects
 
-### 🏦 Banking System Data Pipeline
+### 🚛 Fleet Telematics Lakehouse on Microsoft Fabric
 
-An end-to-end Big Data project focused on banking data, customer activity, and analytical data pipelines.
+An end-to-end Lakehouse project that processes simulated truck telemetry through streaming and batch pipelines.
 
-**Technologies:** Hadoop, Spark, Hive, Python
+- Built Bronze, Silver, and Gold data layers.
+- Implemented data validation, cleaning, and quarantine for faulty records.
+- Developed real-time alerts and Power BI dashboards.
 
-[View Repository](https://github.com/SaraMoh0103/Bank-system-data-pipeline)
+**Tech Stack:** Microsoft Fabric, Kafka, KQL, PySpark, Delta Lake, Data Factory, Power BI.
 
-### 🚗 Fleet Telemetry Lakehouse Data Pipeline
-
-A data engineering project focused on processing fleet telemetry and building a Lakehouse architecture using Microsoft Fabric.
-
-**Technologies:** Microsoft Fabric, Eventhouse, KQL, PySpark
-
-[View Repository](https://github.com/shoman042/fleet-telematics-fabric)
-
-### ⚡ Spark Project
-
-An Automated Material Stream Identification using Python and Machine Learning concepts.
-
-**Technologies:** Python, PySpark
-
-[View Repository](https://github.com/1Menna/Material-Stream-Identification-System)
+🔗 [View Repository](https://github.com/shoman042/fleet-telematics-fabric)
 
 ---
 
+### 🏦 Banking Customer Churn Data Pipeline
+
+A Big Data engineering capstone focused on banking customer activity and churn analysis.
+
+- Designed a dimensional model using a Star Schema.
+- Implemented an SCD Type 2 customer dimension.
+- Prepared analytical data to support customer retention insights.
+
+**Tech Stack:** MariaDB, PySpark, SQL, Star Schema.
+
+🔗 [View Repository](https://github.com/SaraMoh0103/Bank-system-data-pipeline)
+
+---
+
+### 🤖 SprintSight – AI-Powered Project Analytics
+
+A graduation project sponsored by GitLab that transforms Git repository history into actionable project insights.
+
+- Developed AI agents for commit classification and risk analysis.
+- Built contribution tracking and onboarding assistance.
+- Used LangChain and LangGraph to orchestrate AI workflows.
+
+**Tech Stack:** Python, AI, LangChain, LangGraph.
+
+🔗 [View Repository](https://gitlab.com/fcai-cu1/stack-underflow/sprint_sight)
+
+---
+
+## 🎓 Training & Certifications
+
+**Samsung Innovation Campus – Big Data Engineering**
+
+- Completed a 178-hour training program.
+- Covered data ingestion, distributed processing, data warehousing, streaming, cloud platforms, and monitoring.
+
+---
+
+<!-- ================= CONNECT ================= -->
+
 ## 🔗 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaraMoh0103)
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sara-mohamed-a65a8426b)
+<a href="https://www.linkedin.com/in/sara-mohamed-a65a8426b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/SaraMoh0103">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:saramohamed0103@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saramohamed0103@gmail.com)
+</div>
 
 ---
 
