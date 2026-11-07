@@ -3,9 +3,9 @@
 
 <div align="center">
 
-# Hi, I'm Sara Mohammed Zaghloul 👋
+# Hi, I'm Sara Mohammed 👋
 
-### Aspiring Data Engineer | Big Data Enthusiast
+### Data Engineer | Computer Science Graduate
 
 Computer Science Graduate passionate about building data pipelines, distributed processing systems, and scalable data architectures.
 
@@ -102,16 +102,6 @@ A graduation project sponsored by GitLab that transforms Git repository history 
 
 🔗 [View Repository](https://gitlab.com/fcai-cu1/stack-underflow/sprint_sight)
 
----
-
-## 🎓 Training & Certifications
-
-**Samsung Innovation Campus – Big Data Engineering**
-
-- Completed a 178-hour training program.
-- Covered data ingestion, distributed processing, data warehousing, streaming, cloud platforms, and monitoring.
-
----
 
 <!-- ================= CONNECT ================= -->
 
@@ -134,9 +124,3 @@ A graduation project sponsored by GitLab that transforms Git repository history 
 </div>
 
 ---
-
-<div align="center">
-
-⭐ Thanks for visiting my profile!
-
-</div>
