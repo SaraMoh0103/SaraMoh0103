@@ -9,8 +9,6 @@
 
 Computer Science Graduate passionate about building data pipelines, distributed processing systems, and scalable data architectures.
 
-📍 Cairo, Egypt
-
 </div>
 
 ---
