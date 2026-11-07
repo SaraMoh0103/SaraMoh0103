@@ -1,22 +1,17 @@
 
 <!-- ================= HEADER ================= -->
 
-<table>
-<tr>
-<td width="200" align="center">
-<img src="images/profile.jpg" width="180" alt="Sara Mohammed Zaghloul"/>
-</td>
-<td>
-<h1>Sara Mohammed</h1>
-<h3> Data Engineer | Computer Science graduate </h3>
+<div align="center">
+
+# Hi, I'm Sara Mohammed Zaghloul 👋
+
+### Aspiring Data Engineer | Big Data Enthusiast
 
 Computer Science Graduate passionate about building data pipelines, distributed processing systems, and scalable data architectures.
 
 📍 Cairo, Egypt
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
